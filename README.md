@@ -1,5 +1,34 @@
-# 💫 About Me:
-<br>### 🎯 I’m currently working on<br>- 🛠️ **Laravel** - Building robust backend systems<br>- 🌐 **Vue.js** - Crafting smooth and reactive UIs<br>- 🐳 **Docker** - Containerizing everything (because who needs a messy environment, right?)<br>- 🔧 **WordPress** - Custom themes and plugins development<br><br>### 🤝 I’m looking to collaborate on<br>- **Open-source Laravel packages**<br>- **Vue.js components** – Need to build something interactive? Let's code!<br>  <br>### 🛠️ I’m looking for help with<br>- **Advanced Docker setups** – Need more hands-on experience with multi-container setups.<br>- **Vue.js state management** – Always looking to learn better ways to manage states in larger apps.<br><br>### 🌱 I’m currently learning<br>- **Advanced Vue.js** - Beyond the basics<br>- **CI/CD pipelines** - Automating deployments like a pro!<br>- **Testing in Laravel** - Writing robust and scalable tests (because, who likes bugs?)<br><br>### 💬 Ask me about<br>- Laravel, Vue.js, Docker, and PHP. I’m always up for geeky conversations!<br>  <br>### ⚡ Fun fact<br>> "There are two hard things in computer science: cache invalidation, naming things, and off-by-one errors." — *Leon Bambrick*<br>
+# 👨‍💻 Hello, I’m Javohir aka xerxes!
+
+> "Code is like humor. When you have to explain it, it’s bad." — *Cory House*
+
+Welcome to my GitHub profile! Here's what I'm up to:
+
+### 🎯 I’m currently working on
+- 🛠️ **Laravel** - Building robust backend systems
+- 🌐 **Vue.js** - Crafting smooth and reactive UIs
+- 🐳 **Docker** - Containerizing everything (because who needs a messy environment, right?)
+- 🔧 **WordPress** - Custom themes and plugins development
+
+### 🤝 I’m looking to collaborate on
+- **Open-source Laravel packages**
+- **Vue.js components** – Need to build something interactive? Let's code!
+  
+### 🛠️ I’m looking for help with
+- **Advanced Docker setups** – Need more hands-on experience with multi-container setups.
+- **Vue.js state management** – Always looking to learn better ways to manage states in larger apps.
+
+### 🌱 I’m currently learning
+- **Advanced Vue.js** - Beyond the basics
+- **CI/CD pipelines** - Automating deployments like a pro!
+- **Testing in Laravel** - Writing robust and scalable tests (because, who likes bugs?)
+
+### 💬 Ask me about
+- Laravel, Vue.js, Docker, and PHP. I’m always up for geeky conversations!
+  
+### ⚡ Fun fact
+> "There are two hard things in computer science: cache invalidation, naming things, and off-by-one errors." — *Leon Bambrick*
+
 
 
 ## 🌐 Socials:
