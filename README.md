@@ -2,29 +2,7 @@
 
 > "Code is like humor. When you have to explain it, it’s bad." — *Cory House*
 
-Welcome to my GitHub profile! Here's what I'm up to:
-
-### 🎯 I’m currently working on
-- 🛠️ **Laravel** - Building robust backend systems
-- 🌐 **Vue.js** - Crafting smooth and reactive UIs
-- 🐳 **Docker** - Containerizing everything (because who needs a messy environment, right?)
-- 🔧 **WordPress** - Custom themes and plugins development
-
-### 🤝 I’m looking to collaborate on
-- **Open-source Laravel packages**
-- **Vue.js components** – Need to build something interactive? Let's code!
-  
-### 🛠️ I’m looking for help with
-- **Advanced Docker setups** – Need more hands-on experience with multi-container setups.
-- **Vue.js state management** – Always looking to learn better ways to manage states in larger apps.
-
-### 🌱 I’m currently learning
-- **Advanced Vue.js** - Beyond the basics
-- **CI/CD pipelines** - Automating deployments like a pro!
-- **Testing in Laravel** - Writing robust and scalable tests (because, who likes bugs?)
-
-### 💬 Ask me about
-- Laravel, Vue.js, Docker, and PHP. I’m always up for geeky conversations!
+Welcome to my GitHub profile!
   
 ### ⚡ Fun fact
 > "There are two hard things in computer science: cache invalidation, naming things, and off-by-one errors." — *Leon Bambrick*
@@ -50,4 +28,3 @@ Welcome to my GitHub profile! Here's what I'm up to:
 ---
 [![](https://visitcount.itsvg.in/api?id=xerxes-on&icon=2&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
